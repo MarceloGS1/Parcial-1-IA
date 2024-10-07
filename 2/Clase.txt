@@ -1,0 +1,2 @@
+la clase del dataset es la columna 'mode' que es la ultima columna, 
+solo tiene dos posibles valores, Major(sonido brillante, alegre y optimista.) y Minor(sonido más oscuro, triste o melancólico.)
